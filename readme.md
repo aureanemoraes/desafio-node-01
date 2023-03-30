@@ -19,6 +19,11 @@ git clone git@github.com:aureanemoraes/desafio-node-01.git
 cd desafio-node-01
 ```
 
+## To install libs, run the following
+```bash
+npm install
+```
+
 ## To start the node server, run the following
 
 ```bash
